@@ -1,0 +1,12 @@
+$color: blue;
+
+body {
+    background-color: $color;
+    width: 100%;
+    height: 100%;
+    padding: 25px;
+}
+
+.test {
+    background-image: url('./image/one.jpg')
+}
